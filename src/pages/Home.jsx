@@ -121,8 +121,7 @@ const Home = () => {
                 </div>
                 <div>
                   <p className="paragraph tech-paragraph">
-                    I love using this technology because im very good at using
-                    it. You love to see it mate.
+                  Proficient in creating well-structured and semantically meaningful web pages.
                   </p>
                 </div>
               </div>
@@ -133,8 +132,7 @@ const Home = () => {
                 </div>
                 <div>
                   <p className="paragraph tech-paragraph">
-                    I love using this technology because im very good at using
-                    it. You love to see it mate.
+                  Skilled in styling web content to enhance user experience and interface design.
                   </p>
                 </div>
               </div>
@@ -145,8 +143,7 @@ const Home = () => {
                 </div>
                 <div>
                   <p className="paragraph tech-paragraph">
-                    I love using this technology because im very good at using
-                    it. You love to see it mate.
+                  Proficient in creating well-structured and semantically meaningful web pages.
                   </p>
                 </div>
               </div>
@@ -157,8 +154,7 @@ const Home = () => {
                 </div>
                 <div>
                   <p className="paragraph tech-paragraph">
-                    I love using this technology because im very good at using
-                    it. You love to see it mate.
+                  Capable of building robust and scalable server-side applications using ExpressJS.
                   </p>
                 </div>
               </div>
@@ -169,8 +165,7 @@ const Home = () => {
                 </div>
                 <div>
                   <p className="paragraph tech-paragraph">
-                    I love using this technology because im very good at using
-                    it. You love to see it mate.
+                  Proficient in creating and managing relational databases with MySQL for efficient data organization and retrieval.
                   </p>
                 </div>
               </div>
@@ -181,8 +176,7 @@ const Home = () => {
                 </div>
                 <div>
                   <p className="paragraph tech-paragraph">
-                    I love using this technology because im very good at using
-                    it. You love to see it mate.
+                  Proficient in leveraging the power of NodeJs for server-side scripting and backend development.
                   </p>
                 </div>
               </div>
@@ -193,8 +187,7 @@ const Home = () => {
                 </div>
                 <div>
                   <p className="paragraph tech-paragraph">
-                    I love using this technology because im very good at using
-                    it. You love to see it mate.
+                  Skilled in designing and implementing NoSQL databases using MongoDB for flexible and scalable data storage.
                   </p>
                 </div>
               </div>

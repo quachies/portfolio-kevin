@@ -15,8 +15,7 @@ const Projects = () => {
               </div>
               <div className="desc-container">
                 <p className="project-desc">
-                  This app is an app, and it's been apping hardcore for a long
-                  time now. You get me, yeah mate.
+                Example text. Example text. Example text. Example text. Example text. Example text. Example text. Example text.
                 </p>
               </div>
             </div>
@@ -33,8 +32,7 @@ const Projects = () => {
               </div>
               <div className="desc-container">
                 <p className="project-desc">
-                  This app is an app, and it's been apping hardcore for a long
-                  time now. You get me, yeah mate.
+                Example text. Example text. Example text. Example text. Example text. Example text. Example text. Example text.
                 </p>
               </div>
             </div>
@@ -51,8 +49,7 @@ const Projects = () => {
               </div>
               <div className="desc-container">
                 <p className="project-desc">
-                  This app is an app, and it's been apping hardcore for a long
-                  time now. You get me, yeah mate.
+                Example text. Example text. Example text. Example text. Example text. Example text. Example text. Example text.
                 </p>
               </div>
             </div>
@@ -69,8 +66,7 @@ const Projects = () => {
               </div>
               <div className="desc-container">
                 <p className="project-desc">
-                  This app is an app, and it's been apping hardcore for a long
-                  time now. You get me, yeah mate.
+                Example text. Example text. Example text. Example text. Example text. Example text. Example text. Example text.
                 </p>
               </div>
             </div>
